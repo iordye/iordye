@@ -82,6 +82,7 @@ I'm actively looking for **entry-level data science opportunities**, **remote in
 
 - [LinkedIn](https://linkedin.com/in/namshima-iordye-741b25372)
 - [Email](mailto:namshimaiordye@yahoo.com)
+- [Twitter](https://x.com/Namshima001?t=M2BjOSSyH8Q6IuAQz391qw&s=09)
 
 If you like what you see, browse my repositories below, ⭐ star what you find useful, and let’s build meaningful data-driven solutions together!
 
