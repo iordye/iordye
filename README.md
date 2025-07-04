@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Namshima!
+# 👋 Hello, I'm Namshima
 
 I'm an aspiring **Data Scientist** with a background in microbiology and a strong passion for extracting insights from data to solve real-world problems. I specialize in **Python**, **R**, and **SQL/PostgreSQL**  using these tools to explore, analyze, and model data that drive smart decision-making.
 
