@@ -7,7 +7,7 @@ My data science journey has been hands on and portfolio driven, with projects ra
 ---
 
 🌍 **Location**: Nigeria (open to remote roles globally)  
-📫 **Contact**: [LinkedIn](https://linkedin.com/in/namshima-iordye-741b25372) | [Email](mailto:namshimaiordye@yahoo.com)
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232) | [Email](iordyebarnabas12@gmail.com)
 
 ---
 
@@ -80,12 +80,12 @@ Here are a few projects that reflect my ability to work through the full data sc
 
 I'm actively looking for **entry-level data science opportunities**, **remote internships**, and **collaborative projects** to grow further. If you’re a recruiter, mentor, or fellow data enthusiast, feel free to reach out:
 
-- [LinkedIn](https://linkedin.com/in/namshima-iordye-741b25372)
-- [Email](mailto:namshimaiordye@yahoo.com)
+- [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232)
+- [Email](mailto:iordyebarnabas12@gmail.com)
 - [Twitter](https://x.com/Namshima001?t=M2BjOSSyH8Q6IuAQz391qw&s=09)
 
 If you like what you see, browse my repositories below, ⭐ star what you find useful, and let’s build meaningful data-driven solutions together!
 
 ---
 
-*Last updated: July 2025*
+*Last updated: August 2025*
