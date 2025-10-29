@@ -15,6 +15,7 @@ My data science journey has been hands on and portfolio driven, with projects ra
 
 Here are a few projects that reflect my ability to work through the full data science lifecycle:
 
+- 🚕 **Trip Duration Predictor** using NYC taxi dataset
 - 📊 **Sales Trends Analysis** using the Northwind database (R + SQL)  
 - ✉️ **Spam Classification** using NLP and machine learning  
 - 💻 **Stack Overflow Developer Insights** with hypothesis testing  
