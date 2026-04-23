@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Namshima
 
-I'm an aspiring **Data Scientist** with a background in microbiology and a strong passion for extracting insights from data to solve real-world problems. I specialize in **Python**, **R**, and **SQL/PostgreSQL**  using these tools to explore, analyze, and model data that drive smart decision-making.
+I'm a **Data Scientist** with a background in microbiology and a strong passion for extracting insights from data to solve real-world problems. I specialize in **Python**, **R**, and **SQL/PostgreSQL**  using these tools to explore, analyze, and model data that drive smart decision-making.
 
 My data science journey has been hands on and portfolio driven, with projects ranging from **sales trend analysis**, **fraud and anomaly detection**, and **price prediction** to **spam classification**, **hypothesis testing**, and **natural language processing (NLP)**. Whether it's optimizing operations, improving customer targeting, or detecting risk, my focus is always on delivering actionable insights.
 
