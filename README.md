@@ -1,92 +1,117 @@
-# 👋 Hello, I'm Namshima
+# Namshima Iordye — AI/ML Engineer
 
-I'm a **Data Scientist** with a background in microbiology and a strong passion for extracting insights from data to solve real-world problems. I specialize in **Python**, **R**, and **SQL/PostgreSQL**  using these tools to explore, analyze, and model data that drive smart decision-making.
+> Building production AI systems that actually work.
 
-My data science journey has been hands on and portfolio driven, with projects ranging from **sales trend analysis**, **fraud and anomaly detection**, and **price prediction** to **spam classification**, **hypothesis testing**, and **natural language processing (NLP)**. Whether it's optimizing operations, improving customer targeting, or detecting risk, my focus is always on delivering actionable insights.
-
----
-
-🌍 **Location**: Nigeria (open to remote roles globally)  
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232) | [Email](iordyebarnabas12@gmail.com)
+🏆 **GDG Makurdi HackFest 2025 — 1st Place** &nbsp;|&nbsp; 📍 Abuja, Nigeria (WAT / UTC+1) &nbsp;|&nbsp; 🌍 Open to remote roles globally
 
 ---
 
-## 🛠️ Featured Projects
+I design and ship end-to-end ML systems — from RAG pipelines and clinical AI platforms to real-time object detection and LLM applications. My work spans the full engineering lifecycle: data ingestion, model evaluation, API development, containerisation, and production deployment.
 
-Here are a few projects that reflect my ability to work through the full data science lifecycle:
+Currently an **AI Engineer at Uniccon Group / Omeife Technologies**. Previously built a clinical risk intelligence platform for a US-based health tech company. Trained **50+ engineers and data scientists** as an AI educator.
 
-- 🚕 **Trip Duration Predictor** using NYC taxi dataset
-- 📊 **Sales Trends Analysis** using the Northwind database (R + SQL)  
-- ✉️ **Spam Classification** using NLP and machine learning  
-- 💻 **Stack Overflow Developer Insights** with hypothesis testing  
-- 🚗 **Used Car Analysis (EDA) & Price Prediction** using regression and feature engineering  
-- 🚢 **Titanic Survival Prediction** using classification algorithms  
-- 🧬 **Diabetes Risk Prediction** with supervised ML  
-- 📦 More coming soon...
+📧 iordyebarnabas12@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232) &nbsp;|&nbsp; [Hugging Face](https://huggingface.co/Namshima/spaces)
 
 ---
 
-## 💡 Why I Stand Out
+## Production Impact
 
-- **Full-Stack Project Experience**: From data wrangling and visualization to model building and evaluation I do it all, with clarity and structure.
-- **Strong Statistical Foundation**: Proficient in hypothesis testing, A/B testing, and statistical modeling using R and Python.
-- **SQL & Database Proficiency**: Skilled in PostgreSQL for querying, joining, aggregating and analyzing complex datasets in real time.
-- **Business-Focused Solutions**: Every project aims to answer real questions and simulate real-world scenarios like fraud detection, churn reduction, and pricing strategy.
-- **Remote-Ready**: I write clean, documented and reproducible code for collaborative and remote work environments.
-- **Always Learning**: No one is an island of knowledge  I’m always open to learning new tools, techniques, and technologies to better my skills and myself.
+### RAG System Audit & Rebuild — Uniccon Group
 
----
+| Metric | Before | After |
+|---|---|---|
+| Retrieval Quality | 65% | **90%** |
+| Recall@1 | 50% | **88%** |
+| Recall@5 | 70% | **95%** |
+| MRR | 0.70 | **0.95** |
 
-## 💻 Core Skills
-
-### 📌 Programming & Languages
-- Python, R, SQL (PostgreSQL)
-
-### 🧠 Machine Learning & Statistics
-- Regression, Classification, Clustering, Anomaly Detection  
-- Hypothesis Testing, A/B Testing, Statistical Modeling  
-- Scikit-learn, XGBoost, TensorFlow, Keras, Statsmodels
-
-### 💬 Natural Language Processing (NLP)
-- NLTK, spaCy, Text Cleaning, Vectorization, Classification
-
-### 📊 Data Analysis & Visualization
-- pandas, NumPy, dplyr, tidyverse  
-- Seaborn, Matplotlib, ggplot2
-
-### 🗃️ Data Management & Tools
-- PostgreSQL, Git, Jupyter Notebook, R Markdown
-
-### 🧩 Soft Skills
-- Problem Solving, Communication, Team Collaboration, Self-Learning
+Diagnosed data quality failures (binary artifacts, broken markdown, inconsistent formats), redesigned document-aware chunking strategy, built a hand-crafted **165-pair golden dataset**, and benchmarked **7 embedding models** across retrieval quality, speed, and vector dimensions. Selected `intfloat/multilingual-e5-small` — deliberately trading 2% accuracy for **9× faster embedding** and **2.7× smaller dimensions** — achieving a system that performs in production, not just on paper.
 
 ---
 
-## 🏆 Skills at a Glance
+## Featured Projects
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/-NLP-8E44AD?style=flat)
-![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-2980B9?style=flat)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-00C4B4?style=flat)
-![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-16A085?style=flat)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF6F00?style=flat)
-![Good Communication](https://img.shields.io/badge/-Good%20Communication-8E44AD?style=flat)
+### 🏥 Aegis Clinical Intelligence Platform
+Clinical AI platform converting patient vitals, medication adherence, and behavioural signals into real-time risk classifications (Stable / Watch / High-Risk). Includes explainable alerts pipeline, time-series trend detection, and automated physician-readable patient summaries.
+
+`Python` `FastAPI` `Time-Series` `Clinical AI` `Explainable AI`
 
 ---
 
-## 📬 Let's Connect
+### 🤖 BrightPath Academy RAG Chatbot
+Full production RAG pipeline — document ingestion, chunking, embedding, semantic retrieval, LLM-grounded generation. AstraDB vector store, prompt-injection hardening (passed 17-case manual audit), FastAPI REST API with Pydantic validation, 80+ pytest integration tests. Deployed on Render.
 
-I'm actively looking for **entry-level data science opportunities**, **remote internships**, and **collaborative projects** to grow further. If you’re a recruiter, mentor, or fellow data enthusiast, feel free to reach out:
-
-- [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232)
-- [Email](mailto:iordyebarnabas12@gmail.com)
-- [Twitter](https://x.com/Namshima001?t=M2BjOSSyH8Q6IuAQz391qw&s=09)
-
-If you like what you see, browse my repositories below, ⭐ star what you find useful, and let’s build meaningful data-driven solutions together!
+`LangChain` `AstraDB` `FastAPI` `Docker` `Gemini` `Hugging Face`
 
 ---
 
-*Last updated: August 2025*
+### 💬 AI-Powered Real-Time Chat Platform
+LLM-driven conversational features (smart replies, content moderation, multi-turn context) with non-blocking async pipeline. Real-time moderation, distributed rate-limiting, and full observability stack — structured logging, tracing, and audit pipelines.
+
+`LLM Integration` `Async Inference` `OpenAI API` `Observability`
+
+---
+
+### 👁️ Real-Time Object Detection System
+Custom-trained YOLO11 food-item detection app with OpenCV inference, Gradio UI supporting image/video/webcam input. Optimised for video streams with frame scaling and batch inference. Live on Hugging Face Spaces.
+
+`YOLO11` `OpenCV` `Gradio` `Computer Vision` `Hugging Face Spaces`
+
+---
+
+### ⚖️ Nigerian Constitution Legal Q&A
+RAG chatbot that semantically searches 280 pages of constitutional law using sentence embeddings and AstraDB. Answers plain-language citizen queries grounded in the actual text.
+
+`RAG` `LangChain` `AstraDB` `Gemini` `Legal NLP`
+
+---
+
+### 🌡️ Temperature Anomaly Detection System
+Anomaly detection on 2.9 million global temperature records. Engineered rolling statistics, lag variables, and seasonal features. Isolation Forest model with full MLflow experiment tracking.
+
+`Isolation Forest` `Time-Series` `MLflow` `Feature Engineering`
+
+---
+
+### 🚕 Trip Duration Predictor *(Deployed)*
+ML regression model on NYC taxi data — R² = 0.878 / MAE = 2.10 (train), R² = 0.870 / MAE = 2.21 (validation). Deployed as a live FastAPI endpoint.
+
+`Random Forest` `Gradient Boosting` `FastAPI` `Scikit-learn`
+
+---
+
+## Technical Stack
+
+**LLM & Generative AI**
+LangChain · RAG Pipelines · Prompt Engineering · LLM Evaluation · Vector Databases (AstraDB, ChromaDB) · OpenAI API · Gemini
+
+**Machine Learning & Deep Learning**
+PyTorch · TensorFlow · scikit-learn · XGBoost · CNNs · YOLO · Transfer Learning · NLP · spaCy · NLTK
+
+**MLOps & Deployment**
+Docker · FastAPI · REST APIs · MLflow · DVC · Streamlit · Gradio · Render · Hugging Face Spaces · CI/CD
+
+**Data & Languages**
+Python · SQL (PostgreSQL) · R · Pandas · NumPy · Matplotlib · Seaborn · ggplot2
+
+---
+
+## Recognition
+
+- 🥇 **1st Place** — GDG Makurdi HackFest 2025
+- 📚 **AI Educator** — trained 50+ data scientists and AI engineers at Torbita Computer Training School
+- 📄 **Published Research** — *Assessment of Agricultural Waste Feedstock for Bioethanol Production*, Advances in Bioscience and Biotechnology (2026)
+
+---
+
+## Open to Opportunities
+
+I'm actively looking for **remote ML/AI Engineering roles** — full-time positions, contract work, and serious technical collaborations.
+
+If you're building something in clinical AI, LLM applications, RAG systems, or intelligent automation — let's talk.
+
+📧 [iordyebarnabas12@gmail.com](mailto:iordyebarnabas12@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232)
+
+---
+
+*Last updated: June 2026*
