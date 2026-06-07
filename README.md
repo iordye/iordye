@@ -2,13 +2,13 @@
 
 > Building production AI systems that actually work.
 
-🏆 **GDG Makurdi HackFest 2025 — 1st Place** &nbsp;|&nbsp; 📍 Abuja, Nigeria (WAT / UTC+1) &nbsp;|&nbsp; 🌍 Open to remote roles globally
+🏆 **GDG Makurdi HackFest 2025 — 1st Place** &nbsp;|&nbsp; 📍 Abuja, Nigeria (WAT / UTC+1) &nbsp;|&nbsp; 🌍 Open to onsite and remote roles both locally and globally
 
 ---
 
 I design and ship end-to-end ML systems — from RAG pipelines and clinical AI platforms to real-time object detection and LLM applications. My work spans the full engineering lifecycle: data ingestion, model evaluation, API development, containerisation, and production deployment.
 
-Currently an **AI Engineer at Uniccon Group / Omeife Technologies**. Previously built a clinical risk intelligence platform for a US-based health tech company. Trained **50+ engineers and data scientists** as an AI educator.
+Currently an **AI Engineer at Uniccon Group / Omeife Technologies**. Previously built a clinical risk intelligence platform for a Ghanian/US-based health tech company. Trained **50+ engineers and data scientists** as an AI educator.
 
 📧 iordyebarnabas12@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/namshima-iordye-98ba51232) &nbsp;|&nbsp; [Hugging Face](https://huggingface.co/Namshima/spaces)
 
@@ -73,7 +73,7 @@ Anomaly detection on 2.9 million global temperature records. Engineered rolling 
 
 ---
 
-### 🚕 Trip Duration Predictor *(Deployed)*
+### 🚕 Trip Duration Predictor
 ML regression model on NYC taxi data — R² = 0.878 / MAE = 2.10 (train), R² = 0.870 / MAE = 2.21 (validation). Deployed as a live FastAPI endpoint.
 
 `Random Forest` `Gradient Boosting` `FastAPI` `Scikit-learn`
@@ -106,7 +106,7 @@ Python · SQL (PostgreSQL) · R · Pandas · NumPy · Matplotlib · Seaborn · g
 
 ## Open to Opportunities
 
-I'm actively looking for **remote ML/AI Engineering roles** — full-time positions, contract work, and serious technical collaborations.
+I'm actively looking for **both onsite and remote ML/AI Engineering roles** — full-time positions, contract work, and serious technical collaborations.
 
 If you're building something in clinical AI, LLM applications, RAG systems, or intelligent automation — let's talk.
 
